@@ -1,0 +1,5 @@
+Widget stateless e statefull
+
+stateless é um widgte estatico
+
+statefull é um widgte que reconstroi o build e permiti rebildar a tela
